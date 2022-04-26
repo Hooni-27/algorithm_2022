@@ -2,7 +2,7 @@
 
 
 ※ C++ 사용시(cin/cout를 사용할 경우)
-'''c++
+'''c
   ios_base::sync_with_stdio(false);
   cin.tie(nullptr);
   cout.tie(nullptr);
