@@ -2,11 +2,10 @@
 
 
 ※ C++ 사용시(cin/cout를 사용할 경우)
-'''c
-  ios_base::sync_with_stdio(false);
-  cin.tie(nullptr);
-  cout.tie(nullptr);
-'''
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+
 
 04.26(화)
  - 알고리즘 Start
