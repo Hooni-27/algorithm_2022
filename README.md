@@ -34,3 +34,13 @@
  - git, github 연습
  - stack 연습(괄호)
   - 9012 괄호 : 해결은 하였으나, 해설 확인 후 다시 풀어보기
+
+
+## 05.18(수)
+ - 알고리즘 복습
+ - getline(), cin.ignore() 사용방법 완벽 숙지하기
+    - getline()
+        - istream에서의 cin.getline() : cin.getline(char* str, streamsize n);
+        - string 라이브러리에서의 getline() : getline(istream& is, string str);
+    - cin.ignore()
+        - getline() 사용 시, 이전 입력에 대하여 '\n'이 버퍼에 남아있기 때문에 이를 해결하기 위해 사용
